@@ -9,7 +9,7 @@ from pytgcalls.types.input_stream.quality import *
 
 
 # Audio Stream
-@app.on_message(commandz(["ply", "play"]) & ~filters.private)
+@app.on_message(filters.command(["ply", "play"], ["."]) & ~filters.private)
 @sudo_user_only
 async def audio_stream(client, message):
     chat_id = message.chat.id
