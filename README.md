@@ -1,7 +1,7 @@
 <h2>Genius-Userbot</h2>
 <p title="Genius-Userbot">Genius-Userbot is a powerful, advanced, multi-featured Telegram userbot.</p>
 
-<p align="center"><a href="https://t.me/adityahalder"><img src="https://telegra.ph/file/027283ee9defebc3298b8.png"></a></p>
+<p align="center"><a href="https://t.me/official_salaar_op"><img src="https://telegra.ph/file/027283ee9defebc3298b8.png"></a></p>
 
 ![](AdityaHalder/resorce/maintained.svg)
 ![](AdityaHalder/resource/license.svg)
@@ -38,5 +38,5 @@ cp Internal.env Internal && python3 -m AdityaHalder
 
 <h2>Updates and Support</h2>
 <p title="Support">You can join us on any issue related to Genius-Userbot Update and Support in Telegram.</p>
-<a href="https://t.me/AdityaServer" target="_blank"><img src="AdityaHalder/resource/updates.svg"/></a>
+<a href="https://t.me/official_salaar_op" target="_blank"><img src="AdityaHalder/resource/updates.svg"/></a>
 <a href="https://t.me/AdityaDiscus" target="_blank"><img src="AdityaHalder/resource/support.svg"/></a>
