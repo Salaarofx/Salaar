@@ -19,7 +19,7 @@ async def audio_stream(client, message):
         replied.video or replied.document)
         if replied else None
     )
-    m = await eor(message, "**🔄 Processing ...**")
+    m = await message.reply_text(message, "**🔄 Processing ...**")
     try:
         if audio:
             await m.edit("**📥 Downloading ...**")
